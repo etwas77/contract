@@ -1,0 +1,10 @@
+1. Start
+Employment starts on 1 January 2030 and is permanent.
+2. Role
+The employee works as a Software Developer.
+3. Compensation
+The fixed annual gross salary is EUR 72000.
+4. Working time
+Regular working time is 40 hours per week.
+5. Vacation
+Annual vacation is 30 working days.

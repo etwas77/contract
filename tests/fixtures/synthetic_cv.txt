@@ -1,0 +1,7 @@
+Senior Software Developer
+2018-present Example Systems, Senior Developer
+Built Python services and mentored developers.
+Master of Science, Example University, 2017
+Skills: Python, TypeScript, Docker
+Languages: English fluent, German intermediate
+Project Atlas: document automation using Python
